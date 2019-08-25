@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Home</title>
+    <link rel="stylesheet" href="css/StyleSheet.css" />
+    <script src="js/JavaScript.js"></script>
+</head>
+<body id="bodyid" onload="setTheme()">
+    <div id="themeSetting" class="lighttheme"></div>
+    <header>
+        <h1>Home Page</h1>
+    </header>
+    <hr>
+    <h4>Name: Amruta Joshi</h4>
+    <h4>Course: CSE 686 Internet Programming</h4>
+    <navkey-container style="display:inline;">
+        <input type="radio" name="themeSelection" id="darkthemeSelection" onclick="setDarkTheme()">Dark |
+        <input type="radio" name="themeSelection" id="lightthemeSelection" onclick="setLightTheme()">Light |
+        <input type="radio" name="themeSelection" id="resetthemeSelection" onclick="resetTheme()">Reset
+    </navkey-container>
+    <p id="date"></p>
+    <nav>
+        <p>
+            Links:
+            <a href="About.html">About</a> |
+            <a href="SiteMap.html">Site Map</a>
+        </p>
+    </nav>
+    <script>
+        var n =  new Date();
+        var y = n.getFullYear();
+        var m = n.getMonth() + 1;
+        var d = n.getDate();
+        document.getElementById("date").innerHTML = m + "/" + d + "/" + y;
+    </script>
+</body>
+</html>

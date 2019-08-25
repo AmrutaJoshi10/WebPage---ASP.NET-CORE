@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>SiteMap</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="css/StyleSheet.css" />
+    <script src="js/JavaScript.js"></script>
+</head>
+<body id="bodyid" onload="setTheme()">
+    <header>
+        <div id="themeSetting" class="darktheme"></div>
+        <h1>Site Map</h1>
+    </header><hr>
+    <nav-info>
+        <ul>
+            <li><a href="Home.html">Home</a></li>
+            <li><a href="About.html">About</a></li>
+        </ul>
+    </nav-info>
+    <footer>
+        <navkey-container style="display:inline;">
+            <input type="radio" name="themeSelection" id="darkthemeSelection" onclick="setDarkTheme()">Dark |
+            <input type="radio" name="themeSelection" id="lightthemeSelection" onclick="setLightTheme()">Light |
+            <input type="radio" name="themeSelection" id="resetthemeSelection" onclick="resetTheme()">Reset
+        </navkey-container>
+    </footer>
+</body>
+</html>

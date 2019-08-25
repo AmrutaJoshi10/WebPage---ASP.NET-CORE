@@ -1,0 +1,51 @@
+﻿navkey-container {
+    display: none;
+    font-size: 1.0em;
+    position: fixed;
+    top: 60px;
+    right: 30px;
+    padding: 0px;
+}
+
+nav {
+    position: fixed;
+    bottom: 60px;
+    right: 30px;
+    padding: 0px;
+}
+
+input {
+    padding: 2px 5px;
+    margin: 0px;
+    border: 1px solid black;
+    background-color: none;
+    cursor: default;
+    background-color: #f5829f;
+}
+
+body {
+    font-family: Tahoma;
+    margin: 3% 5%;
+}
+
+.darktheme {
+    background-color: #385a7c;
+    color: #d1f3ee;
+}
+
+a.linkdarktheme {
+    color: #f0a9e4;
+}
+
+.lighttheme {
+    background-color: #d1f3ee;
+    color: #385a7c;
+}
+
+a.linklighttheme {
+    color: #755704;
+}
+
+h1 {
+    text-align: center;
+}

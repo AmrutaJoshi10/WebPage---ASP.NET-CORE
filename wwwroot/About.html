@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Lab1</title>
+    <link rel="stylesheet" href="css/StyleSheet.css" />
+    <script src="js/JavaScript.js"></script>
+</head>
+<body id="bodyid" onload="setTheme()">
+    <header>
+        <div id="themeSetting" class="darktheme"></div>
+        <h1>Lab 6</h1>
+    </header>
+    <hr>
+    <h3>Details of Lab 6</h3>
+    <p>Creation of a server to host static pages</p>
+    <details>
+        <summary>Home Page</summary>
+        <p>The home page contains the Student name and the Course name</p>
+        <p>Links are provided to the Site Map and Lab1 page</p>
+    </details>
+    <details>
+        <summary>Site Map Page</summary>
+        <p>Site Map Page contains links to all pages accessible to the user</p>
+    </details>
+    <br>
+    <p>Additional Features</p>
+    <ul>
+        <li>Implementation of Radio Buttons to change themes</li>
+        <li>Usage of local storage to store the theme value</li>
+        <li>A javaScript page linked to all 3 HTML pages to provide features</li>
+        <li>A CSS page to provide the desired styles</li>
+    </ul>
+    <navkey-container style="display:inline;">
+        <input type="radio" name="themeSelection" id="darkthemeSelection" onclick="setDarkTheme()">Dark |
+        <input type="radio" name="themeSelection" id="lightthemeSelection" onclick="setLightTheme()">Light |
+        <input type="radio" name="themeSelection" id="resetthemeSelection" onclick="resetTheme()">Reset
+    </navkey-container>
+    <nav>
+        <p>
+            Links:
+            <a href="SiteMap.html">Site Map</a> |
+            <a href="Home.html">Home</a>
+        </p>
+    </nav>
+</body>
+</html>

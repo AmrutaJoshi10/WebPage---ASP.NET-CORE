@@ -1,0 +1,69 @@
+c:\su\cse686\code\Asp.Net.Core\Web\bin\Debug\netcoreapp2.1\Web.deps.json
+c:\su\cse686\code\Asp.Net.Core\Web\bin\Debug\netcoreapp2.1\Web.runtimeconfig.json
+c:\su\cse686\code\Asp.Net.Core\Web\bin\Debug\netcoreapp2.1\Web.runtimeconfig.dev.json
+c:\su\cse686\code\Asp.Net.Core\Web\bin\Debug\netcoreapp2.1\Web.dll
+c:\su\cse686\code\Asp.Net.Core\Web\bin\Debug\netcoreapp2.1\Web.pdb
+c:\su\cse686\code\Asp.Net.Core\Web\obj\Debug\netcoreapp2.1\Web.csprojAssemblyReference.cache
+c:\su\cse686\code\Asp.Net.Core\Web\obj\Debug\netcoreapp2.1\Web.csproj.CoreCompileInputs.cache
+c:\su\cse686\code\Asp.Net.Core\Web\obj\Debug\netcoreapp2.1\Web.RazorAssemblyInfo.cache
+c:\su\cse686\code\Asp.Net.Core\Web\obj\Debug\netcoreapp2.1\Web.RazorAssemblyInfo.cs
+c:\su\cse686\code\Asp.Net.Core\Web\obj\Debug\netcoreapp2.1\Web.AssemblyInfoInputs.cache
+c:\su\cse686\code\Asp.Net.Core\Web\obj\Debug\netcoreapp2.1\Web.AssemblyInfo.cs
+c:\su\cse686\code\Asp.Net.Core\Web\obj\Debug\netcoreapp2.1\Web.RazorTargetAssemblyInfo.cache
+c:\su\cse686\code\Asp.Net.Core\Web\obj\Debug\netcoreapp2.1\Web.dll
+c:\su\cse686\code\Asp.Net.Core\Web\obj\Debug\netcoreapp2.1\Web.pdb
+C:\su\cse686\code\Asp.Net.Core\StaticPages\bin\Debug\netcoreapp2.1\Web.deps.json
+C:\su\cse686\code\Asp.Net.Core\StaticPages\bin\Debug\netcoreapp2.1\Web.runtimeconfig.json
+C:\su\cse686\code\Asp.Net.Core\StaticPages\bin\Debug\netcoreapp2.1\Web.runtimeconfig.dev.json
+C:\su\cse686\code\Asp.Net.Core\StaticPages\bin\Debug\netcoreapp2.1\Web.dll
+C:\su\cse686\code\Asp.Net.Core\StaticPages\bin\Debug\netcoreapp2.1\Web.pdb
+C:\su\cse686\code\Asp.Net.Core\StaticPages\obj\Debug\netcoreapp2.1\Web.csproj.CoreCompileInputs.cache
+C:\su\cse686\code\Asp.Net.Core\StaticPages\obj\Debug\netcoreapp2.1\Web.RazorAssemblyInfo.cache
+C:\su\cse686\code\Asp.Net.Core\StaticPages\obj\Debug\netcoreapp2.1\Web.RazorAssemblyInfo.cs
+C:\su\cse686\code\Asp.Net.Core\StaticPages\obj\Debug\netcoreapp2.1\Web.AssemblyInfoInputs.cache
+C:\su\cse686\code\Asp.Net.Core\StaticPages\obj\Debug\netcoreapp2.1\Web.AssemblyInfo.cs
+C:\su\cse686\code\Asp.Net.Core\StaticPages\obj\Debug\netcoreapp2.1\Web.RazorTargetAssemblyInfo.cache
+C:\su\cse686\code\Asp.Net.Core\StaticPages\obj\Debug\netcoreapp2.1\Web.dll
+C:\su\cse686\code\Asp.Net.Core\StaticPages\obj\Debug\netcoreapp2.1\Web.pdb
+C:\Users\Nivetha Ramachandran\Desktop\IP\Lab#6NivethaRamachandran\StaticPages\bin\Debug\netcoreapp2.1\Web.deps.json
+C:\Users\Nivetha Ramachandran\Desktop\IP\Lab#6NivethaRamachandran\StaticPages\bin\Debug\netcoreapp2.1\Web.runtimeconfig.json
+C:\Users\Nivetha Ramachandran\Desktop\IP\Lab#6NivethaRamachandran\StaticPages\bin\Debug\netcoreapp2.1\Web.runtimeconfig.dev.json
+C:\Users\Nivetha Ramachandran\Desktop\IP\Lab#6NivethaRamachandran\StaticPages\bin\Debug\netcoreapp2.1\Web.dll
+C:\Users\Nivetha Ramachandran\Desktop\IP\Lab#6NivethaRamachandran\StaticPages\bin\Debug\netcoreapp2.1\Web.pdb
+C:\Users\Nivetha Ramachandran\Desktop\IP\Lab#6NivethaRamachandran\StaticPages\obj\Debug\netcoreapp2.1\Web.csprojAssemblyReference.cache
+C:\Users\Nivetha Ramachandran\Desktop\IP\Lab#6NivethaRamachandran\StaticPages\obj\Debug\netcoreapp2.1\Web.csproj.CoreCompileInputs.cache
+C:\Users\Nivetha Ramachandran\Desktop\IP\Lab#6NivethaRamachandran\StaticPages\obj\Debug\netcoreapp2.1\Web.RazorAssemblyInfo.cache
+C:\Users\Nivetha Ramachandran\Desktop\IP\Lab#6NivethaRamachandran\StaticPages\obj\Debug\netcoreapp2.1\Web.RazorAssemblyInfo.cs
+C:\Users\Nivetha Ramachandran\Desktop\IP\Lab#6NivethaRamachandran\StaticPages\obj\Debug\netcoreapp2.1\Web.AssemblyInfoInputs.cache
+C:\Users\Nivetha Ramachandran\Desktop\IP\Lab#6NivethaRamachandran\StaticPages\obj\Debug\netcoreapp2.1\Web.AssemblyInfo.cs
+C:\Users\Nivetha Ramachandran\Desktop\IP\Lab#6NivethaRamachandran\StaticPages\obj\Debug\netcoreapp2.1\Web.RazorTargetAssemblyInfo.cache
+C:\Users\Nivetha Ramachandran\Desktop\IP\Lab#6NivethaRamachandran\StaticPages\obj\Debug\netcoreapp2.1\Web.dll
+C:\Users\Nivetha Ramachandran\Desktop\IP\Lab#6NivethaRamachandran\StaticPages\obj\Debug\netcoreapp2.1\Web.pdb
+C:\Users\Nivetha Ramachandran\Desktop\IP\Lab#6NivethaRamachandran\Lab#6\bin\Debug\netcoreapp2.1\Web.deps.json
+C:\Users\Nivetha Ramachandran\Desktop\IP\Lab#6NivethaRamachandran\Lab#6\bin\Debug\netcoreapp2.1\Web.runtimeconfig.json
+C:\Users\Nivetha Ramachandran\Desktop\IP\Lab#6NivethaRamachandran\Lab#6\bin\Debug\netcoreapp2.1\Web.runtimeconfig.dev.json
+C:\Users\Nivetha Ramachandran\Desktop\IP\Lab#6NivethaRamachandran\Lab#6\bin\Debug\netcoreapp2.1\Web.dll
+C:\Users\Nivetha Ramachandran\Desktop\IP\Lab#6NivethaRamachandran\Lab#6\bin\Debug\netcoreapp2.1\Web.pdb
+C:\Users\Nivetha Ramachandran\Desktop\IP\Lab#6NivethaRamachandran\Lab#6\obj\Debug\netcoreapp2.1\Web.csprojAssemblyReference.cache
+C:\Users\Nivetha Ramachandran\Desktop\IP\Lab#6NivethaRamachandran\Lab#6\obj\Debug\netcoreapp2.1\Web.csproj.CoreCompileInputs.cache
+C:\Users\Nivetha Ramachandran\Desktop\IP\Lab#6NivethaRamachandran\Lab#6\obj\Debug\netcoreapp2.1\Web.RazorAssemblyInfo.cache
+C:\Users\Nivetha Ramachandran\Desktop\IP\Lab#6NivethaRamachandran\Lab#6\obj\Debug\netcoreapp2.1\Web.RazorAssemblyInfo.cs
+C:\Users\Nivetha Ramachandran\Desktop\IP\Lab#6NivethaRamachandran\Lab#6\obj\Debug\netcoreapp2.1\Web.AssemblyInfoInputs.cache
+C:\Users\Nivetha Ramachandran\Desktop\IP\Lab#6NivethaRamachandran\Lab#6\obj\Debug\netcoreapp2.1\Web.AssemblyInfo.cs
+C:\Users\Nivetha Ramachandran\Desktop\IP\Lab#6NivethaRamachandran\Lab#6\obj\Debug\netcoreapp2.1\Web.RazorTargetAssemblyInfo.cache
+C:\Users\Nivetha Ramachandran\Desktop\IP\Lab#6NivethaRamachandran\Lab#6\obj\Debug\netcoreapp2.1\Web.dll
+C:\Users\Nivetha Ramachandran\Desktop\IP\Lab#6NivethaRamachandran\Lab#6\obj\Debug\netcoreapp2.1\Web.pdb
+C:\Users\Amruta\Downloads\Lab_6NivethaRamachandran\Lab#6NivethaRamachandran\Lab#6\obj\Debug\netcoreapp2.1\Web.dll
+C:\Users\Amruta\Downloads\Lab_6NivethaRamachandran\Lab#6NivethaRamachandran\Lab#6\obj\Debug\netcoreapp2.1\Web.pdb
+C:\Users\Amruta\Downloads\Lab_6NivethaRamachandran\Lab#6NivethaRamachandran\Lab#6\bin\Debug\netcoreapp2.1\Web.deps.json
+C:\Users\Amruta\Downloads\Lab_6NivethaRamachandran\Lab#6NivethaRamachandran\Lab#6\bin\Debug\netcoreapp2.1\Web.runtimeconfig.json
+C:\Users\Amruta\Downloads\Lab_6NivethaRamachandran\Lab#6NivethaRamachandran\Lab#6\bin\Debug\netcoreapp2.1\Web.runtimeconfig.dev.json
+C:\Users\Amruta\Downloads\Lab_6NivethaRamachandran\Lab#6NivethaRamachandran\Lab#6\bin\Debug\netcoreapp2.1\Web.dll
+C:\Users\Amruta\Downloads\Lab_6NivethaRamachandran\Lab#6NivethaRamachandran\Lab#6\bin\Debug\netcoreapp2.1\Web.pdb
+C:\Users\Amruta\Downloads\Lab_6NivethaRamachandran\Lab#6NivethaRamachandran\Lab#6\obj\Debug\netcoreapp2.1\Web.csprojAssemblyReference.cache
+C:\Users\Amruta\Downloads\Lab_6NivethaRamachandran\Lab#6NivethaRamachandran\Lab#6\obj\Debug\netcoreapp2.1\Web.csproj.CoreCompileInputs.cache
+C:\Users\Amruta\Downloads\Lab_6NivethaRamachandran\Lab#6NivethaRamachandran\Lab#6\obj\Debug\netcoreapp2.1\Web.RazorAssemblyInfo.cache
+C:\Users\Amruta\Downloads\Lab_6NivethaRamachandran\Lab#6NivethaRamachandran\Lab#6\obj\Debug\netcoreapp2.1\Web.RazorAssemblyInfo.cs
+C:\Users\Amruta\Downloads\Lab_6NivethaRamachandran\Lab#6NivethaRamachandran\Lab#6\obj\Debug\netcoreapp2.1\Web.AssemblyInfoInputs.cache
+C:\Users\Amruta\Downloads\Lab_6NivethaRamachandran\Lab#6NivethaRamachandran\Lab#6\obj\Debug\netcoreapp2.1\Web.AssemblyInfo.cs
+C:\Users\Amruta\Downloads\Lab_6NivethaRamachandran\Lab#6NivethaRamachandran\Lab#6\obj\Debug\netcoreapp2.1\Web.RazorTargetAssemblyInfo.cache
